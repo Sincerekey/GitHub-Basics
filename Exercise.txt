@@ -3,7 +3,12 @@
 (ex: system preferences on mac, Settings on pc) is that a CLI allows for more complex commands, automation, and better efficiency.
 
 2. What is the major difference between Git and GitHub?
--Git is Local version control. It tracks and logs every change you make to your code.
+- Git is Local version control. It tracks and logs every change you make to your code, and this allows for better and faster management of mistakes. Instead of having
+to comb through every line of code to figure out where it all whent wrong, you're able to just filp back through previous versions of the code and start from a point 
+where your code was working like it should, and continue building from there. Git also allows for 'branching' which is creating an isolated coding enviornment where you're 
+able to experiment with new ideas, and split up work, and you're also able to decide which branches are recalled, merged with the main code, and deleted. 
+- GitHub takes all the features of Git and adds the ability to colaborate with othes and it has this ability because it's cloud based and not local software on your computer like Git. Meaning any authorized user can view/edit a repository from anywhere. Also incoporating the use of branches allows for multipule people to work on a project at the same without tripping on each others feet.
+- Lastly Git is a lot more command line based compared to GitHub which has a really good GUI.
 
 3.  What are the steps to fork a GitHub repository?
 -
