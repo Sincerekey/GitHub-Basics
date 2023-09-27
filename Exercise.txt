@@ -7,8 +7,11 @@
 to comb through every line of code to figure out where it all whent wrong, you're able to just filp back through previous versions of the code and start from a point 
 where your code was working like it should, and continue building from there. Git also allows for 'branching' which is creating an isolated coding enviornment where you're 
 able to experiment with new ideas, and split up work, and you're also able to decide which branches are recalled, merged with the main code, and deleted. 
-- GitHub takes all the features of Git and adds the ability to colaborate with othes and it has this ability because it's cloud based and not local software on your computer like Git. Meaning any authorized user can view/edit a repository from anywhere. Also incoporating the use of branches allows for multipule people to work on a project at the same without tripping on each others feet.
+- GitHub takes all the features of Git and adds the ability to colaborate with othes and it has this ability because it's cloud based and not local software on your computer like Git. 
+Meaning any authorized user can view/edit a repository from anywhere. Also incoporating the use of branches allows for multipule people to work on a project at the same without tripping on each others feet.
 - Lastly Git is a lot more command line based compared to GitHub which has a really good GUI.
 
 3.  What are the steps to fork a GitHub repository?
--
+- To fork a GitHub repository you must first go to the GitHub url that has the repository you want.
+- Next you click the grey button that says fork around the top/right of the screen.
+- Then name the repository then click the button that says create fork.
